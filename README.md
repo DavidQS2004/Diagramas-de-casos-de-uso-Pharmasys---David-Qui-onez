@@ -1,1 +1,1 @@
-# Diagramas-de-casos-de-uso-Pharmasys---David-Qui-onez
+En el link presentado anteriormente se muestra el desarrollo de la actividad de Diagramas de casos de uso correspondiente al enunciado número 11, Sistema de gestión para industria farmacéutica "pharmasys".
